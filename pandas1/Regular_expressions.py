@@ -1,3 +1,4 @@
+# Lesson 4
 # r : Raw string , ^ : Start from the begining of the line , $ : End , . : Means any letters , \1: Search the smae letters that you save in te group 1
 # [^]: Not in , *: Frequency , + : At least one don'nt accept zero freq
 # na = False : if you see None follow your work
