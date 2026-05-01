@@ -1,4 +1,4 @@
-
+# Lesson 6
 import pandas as pd
 bios=pd.read_csv('./ai/data/bios.csv')
 nocs=pd.read_csv('ai/data/noc_regions.csv')
